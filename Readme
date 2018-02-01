@@ -1,0 +1,5 @@
+* This repo contains implementation of custom file system for in-memory disk.
+
+* It was a course project with primary goal of understanding Linux VFS and how real world file systems are implemented.
+
+* Please refer report.pdf for design and implementation details.

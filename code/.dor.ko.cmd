@@ -1,0 +1,1 @@
+cmd_/home/jayesh/cs746/153050013_153050036/code/dor.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jayesh/cs746/153050013_153050036/code/dor.ko /home/jayesh/cs746/153050013_153050036/code/dor.o /home/jayesh/cs746/153050013_153050036/code/dor.mod.o
